@@ -1,0 +1,3 @@
+[submodule "fit-reader"]
+	path = fit-reader
+	url = git@github.com:blueluna/fit-reader.git

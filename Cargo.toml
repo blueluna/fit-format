@@ -1,0 +1,10 @@
+[package]
+name = "fit-format"
+version = "0.1.0"
+authors = ["Erik Svensson <erik.public@gmail.com>"]
+license = "MIT"
+
+[dependencies]
+chrono = "0.4"
+clap = "2.26"
+fit-reader = { path = "fit-reader" }
